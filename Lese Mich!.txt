@@ -1,0 +1,1 @@
+Bevor du den Bot startest musst du die config.json anpassen!
